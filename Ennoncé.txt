@@ -1,0 +1,31 @@
+﻿ENVIRONNEMENT :
+XAMPP - MySQL
+
+CRITERES :
+Quelle que soit la note donnée par le plugin GreenIT, ce site nécessite une refonte selon les critères imposés par l'association.
+Ce site doit assurer une conformité au W3C.
+
+ESPACE ADMINISTRATION :
+Login : Admin, Mdp : 3il123.
+L'espace administration n'est pas fonctionnel et ne doit l'être fonctionnel. 
+En revanche, son ergonomie doit être homogène au restant du site.
+Vous noterez une implémentation initiale de deux onglets dans la page de connexion qui n'est pas 
+nécessaire et donc pouvant faire office d'une nouvelle implementatation plus optimisée et simple.
+
+EN PLUS DES PROBLEMES SIGNIFIES PAR LE PLUGIN GREENIT :
+	Optimisation des images.
+	Sécurisation de l'espace de connexion, injetcions SQL, injections de script.
+	Factorisation et simplification du CSS.
+	Factorisation du code HTML.
+	Optimisation de l'encapsulation des balises du menu et autres. 
+	Refonte par le biais en technologie flex.Le site doit être responsive par médiaqueries pour format 
+	smartphone.
+Production de requêtes asynchrones à l'égart du serveur.
+
+CORRECTION :
+Pour la correction, une livraison propre et fonctionnelle doit être effectuée.
+Une version non minifiée des CSS doit être livrée.
+
+HERBERGEMENT :
+Dans le cadre d'optimisation GreenIT, le site peut être hébergé sur alwaysdata, 
+offrant un espace web suffisant et gratuit pour ce travail.
